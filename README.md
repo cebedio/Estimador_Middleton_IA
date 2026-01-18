@@ -3,7 +3,6 @@ This repository contains the complete development flow of an AI-based estimator 
 The project is intended for embedded and real-time signal-processing applications, where non-Gaussian impulsive noise modeling is required and computational resources are constrained.
 
 ## Repository Structure
-.
 ├── Generar_datos_middleton.ipynb
 ├── Entrenamiento_e_implementación_estimador_Middleton.ipynb
 ├── vhdl/
